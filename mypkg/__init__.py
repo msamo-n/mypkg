@@ -1,2 +1,2 @@
 def main():
-    print("Hello from mypkg! 5")
+    print("Hello from mypkg! 6")
